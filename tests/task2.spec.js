@@ -21,5 +21,6 @@ test('opening mynthra url',async({page})=>{
 
 
 
-
 });
+//mynthra  maximum value for this site
+
